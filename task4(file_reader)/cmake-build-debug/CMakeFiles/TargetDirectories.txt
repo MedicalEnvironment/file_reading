@@ -1,0 +1,3 @@
+/Users/gasoline/CLionProjects/task4(file_reader)/cmake-build-debug/CMakeFiles/task4_file_reader_.dir
+/Users/gasoline/CLionProjects/task4(file_reader)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasoline/CLionProjects/task4(file_reader)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
